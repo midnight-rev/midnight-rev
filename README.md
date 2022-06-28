@@ -1,4 +1,10 @@
-### Hi there 👋
+### Midnight Reverser (aka Mateus Gualberto)
+
+Hi, I'm a Brazillian IT Security professional and hobbyst programmer.  
+I love to program in C, C++, Rust and other system-level and kernel-level languages. I'm a low level hacker!  
+I like to study computer architectures, exploit binary-level vulnerabilities and take a deep dive in several security and programming subjects. 
+
+Do you want to access my blog? Sure :) [Click here!](https://blog.midnighthackings.com)
 
 <!--
 **midnight-rev/midnight-rev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
